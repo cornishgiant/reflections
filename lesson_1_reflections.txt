@@ -1,1 +1,25 @@
 These are my reflections. What do you think??
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+Cons: You might forget to commit.
+Pros: You have more control.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+For coding, a single new feature or change often has to be carried out across multiple files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Git log gives you an overview of all the commits.
+Git diff allows you to look at the exact differences between two commits.
+
+
+How might using version control make you more confident to make changes that could break something?
+
+You would not worry about breaking your code permanently. You could make lots of different sorts of changes and experiment more.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+For making xcode apps.
